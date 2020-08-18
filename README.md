@@ -1,4 +1,4 @@
 # hello-world
-First Repository
+Just another repository
 
 Learning how to use GitHub
